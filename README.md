@@ -47,11 +47,11 @@ Check out one of my Django projects [here](https://prathmeshsoni.works/project/)
  <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <p align="center">counting of visitors to this page in this section started from Mar 11, 2024</p> 
 <a href="https://info.flagcounter.com/W6vA"><img src="https://s01.flagcounter.com/count/W6vA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
 </a>
-</div>
+</div> -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
