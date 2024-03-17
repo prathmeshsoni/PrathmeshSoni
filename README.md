@@ -143,6 +143,6 @@ Check out one of my Django projects [here](https://prathmeshsoni.works/project/)
 
   <h3>📈 GitHub Activity Graph</h3>
 
-  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Activity Graph 📈" src="https://github-readme-activity-graph.vercel.app/graph/?username=PrathmeshSoni&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Activity Graph 📈" src="https://github-readme-activity-graph.vercel.app/graph/?username=PrathmeshSoni&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true " /></a>
       
 </details>
