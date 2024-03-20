@@ -19,9 +19,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://facebook.com/PrathmeshS0ni"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:connect.prathmeshsoni@gmail.com"><img width="32px" alt="Gmail" title="connect.prathmeshsoni@gmail.com" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
+  <a href="mailto:connect.prathmeshsoni@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://prathmeshsoni.works/"><img width="32px" alt="Gmail" title="connect.prathmeshsoni@gmail.com" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
+  <a href="https://prathmeshsoni.works/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
 </p>
 
 <br/>
