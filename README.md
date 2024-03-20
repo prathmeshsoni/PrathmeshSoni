@@ -26,7 +26,7 @@
 
 <br/>
 
-<!-- Social badges section -->
+<!-- Social badges section- https://github.com/prathmeshsoni/Custom-Icon-Badges -->
 <p align="center">
   <a href="https://github.com/PrathmeshSoni?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.prathmeshsoni.works/github/stars/?username=prathmeshsoni"/></a>
