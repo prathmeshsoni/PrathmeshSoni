@@ -1,27 +1,27 @@
 <p align="center">
   <a href="https://prathmeshsoni.works/">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Prathmesh%20Soni&font=Fira%20Code&repeat=false&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=1000&size=28&duration=1" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Prathmesh%20Soni&font=Fira%20Code&repeat=false&center=true&width=450&height=45&color=70a5fd&vCenter=true&pause=1000&size=28&duration=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/PrathmeshSoni">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/PrathmeshSoni/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/f75c7e"/></a>
+  <a href="https://www.linkedin.com/in/PrathmeshSoni/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/SoniPrathmesh"><img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/f75c7e"></a>
+  <a href="https://github.com/SoniPrathmesh"><img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/PrathmeshSoni25"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/f75c7e"/></a>
+  <a href="https://instagram.com/PrathmeshSoni25"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com/PrathmeshS0ni"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/f75c7e"/></a>
+  <a href="https://facebook.com/PrathmeshS0ni"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:connect.prathmeshsoni@gmail.com"><img width="32px" alt="Gmail" title="connect.prathmeshsoni@gmail.com" src="https://cdn.simpleicons.org/gmail/f75c7e"/></a>
+  <a href="mailto:connect.prathmeshsoni@gmail.com"><img width="32px" alt="Gmail" title="connect.prathmeshsoni@gmail.com" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://prathmeshsoni.works/"><img width="32px" alt="Gmail" title="connect.prathmeshsoni@gmail.com" src="https://cdn.simpleicons.org/googlechrome/f75c7e"/></a>
+  <a href="https://prathmeshsoni.works/"><img width="32px" alt="Gmail" title="connect.prathmeshsoni@gmail.com" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
 </p>
 
 <br/>
@@ -60,12 +60,12 @@ Check out one of my Django projects [here](https://prathmeshsoni.works/project/)
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/PrathmeshSoni/Ecommerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-    <a href="https://github.com/PrathmeshSoni/Private-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Private-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/PrathmeshSoni/Money-Management"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=money-Management&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
-    <a href="https://github.com/PrathmeshSoni/Aiml"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=aiml&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/PrathmeshSoni/Chat-Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=chat-Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/PrathmeshSoni/prathmeshsoni.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=prathmeshsoni.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
+    <a href="https://github.com/PrathmeshSoni/Ecommerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Ecommerce&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
+    <a href="https://github.com/PrathmeshSoni/Private-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Private-App&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/PrathmeshSoni/Money-Management"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=money-Management&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
+    <a href="https://github.com/PrathmeshSoni/Aiml"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=aiml&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/PrathmeshSoni/Chat-Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=chat-Application&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="latex-gboard-dictionary"></a>
+    <a href="https://github.com/PrathmeshSoni/prathmeshsoni.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=prathmeshsoni.github.io&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
   </p>
 
   <a href="https://github.com/PrathmeshSoni?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -74,7 +74,7 @@ Check out one of my Django projects [here](https://prathmeshsoni.works/project/)
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+ecc
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -131,18 +131,18 @@ Check out one of my Django projects [here](https://prathmeshsoni.works/project/)
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/PrathmeshSoni">
-      <img title="PrathmeshSoni's Streak 🔥" alt="PrathmeshSoni's Streak 🔥" src="https://streak-stats.demolab.com/?user=PrathmeshSoni&theme=monokai-metallian&hide_border=true"/>
+      <img title="PrathmeshSoni's Streak 🔥" alt="PrathmeshSoni's Streak 🔥" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshSoni&theme=tokyonight"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's GitHub Stats ⭐" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrathmeshSoni&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshSoni&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's GitHub Stats ⭐" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrathmeshSoni&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshSoni&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866" height="192px"/></a>
   <br/>
 
   <h3>📈 GitHub Activity Graph</h3>
 
-  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Activity Graph 📈" src="https://github-readme-activity-graph.vercel.app/graph/?username=PrathmeshSoni&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true " /></a>
+  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Activity Graph 📈" src="https://github-readme-activity-graph.vercel.app/graph/?username=PrathmeshSoni&bg_color=1F222E&color=70a5fd&line=bf91f3&point=FFFFFF&hide_border=true" /></a>
       
 </details>
