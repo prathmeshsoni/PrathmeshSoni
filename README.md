@@ -137,8 +137,8 @@ ecc
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's GitHub Stats ⭐" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrathmeshSoni&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshSoni&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=70a5fd&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's GitHub Stats ⭐" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PrathmeshSoni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/PrathmeshSoni"><img alt="PrathmeshSoni's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshSoni&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
   <br/>
 
   <h3>📈 GitHub Activity Graph</h3>
