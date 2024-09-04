@@ -17,7 +17,7 @@
   <a href="https://github.com/SoniPrathmesh" target="_blank">
     <img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/PrathmeshSoni25" target="_blank">
+  <a href="https://instacapture.mrsoni.me/@PrathmeshSoni" target="_blank">
     <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://facebook.com/PrathmeshS0ni" target="_blank">
