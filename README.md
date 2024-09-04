@@ -19,9 +19,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instacapture.mrsoni.me/@PrathmeshSoni" target="_blank">
     <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/70a5fd"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://facebook.com/PrathmeshS0ni" target="_blank">
-    <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/70a5fd"/></a>
+    <img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/70a5fd"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:connect.prathmeshsoni@gmail.com" target="_blank">
     <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
