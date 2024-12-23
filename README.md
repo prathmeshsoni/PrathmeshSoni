@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://prathmeshsoni.works?ref=github-hey-prathmeshsoni" target="_blank">
+  <a href="https://soniprathmesh.com?ref=github-hey-prathmeshsoni" target="_blank">
         <img src="https://readme-typing-svg.demolab.com/?lines=Hey!%20I'm%20Prathmesh%20Soni&font=Fira%20Code&repeat=false&center=true&width=450&height=45&color=70a5fd&vCenter=true&pause=1000&size=28&duration=1" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://prathmeshsoni.works?ref=github-python-developer" target="_blank">
+  <a href="https://soniprathmesh.com?ref=github-python-developer" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -26,7 +26,7 @@
   <a href="mailto:connect.prathmeshsoni@gmail.com" target="_blank">
     <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/70a5fd"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://prathmeshsoni.works?ref=github-social-icons-section" target="_blank">
+  <a href="https://soniprathmesh.com?ref=github-social-icons-section" target="_blank">
     <img width="32px" alt="Portfolio" title="Portfolio" src="https://cdn.simpleicons.org/googlechrome/70a5fd"/></a>
 </p>
 
@@ -57,7 +57,7 @@
 - 🔥 Passionate about pushing boundaries and finding innovative solutions.
 - 🤝 Thrives on collaborating with diverse teams for efficient goal achievement.
   
-Check out one of my Django projects <a href="https://projectshowcase.prathmeshsoni.works?ref=here-button" target="_blank">here</a> 👈.  
+Check out one of my Django projects <a href="https://project.mrsoni.me/?ref=here-button" target="_blank">here</a> 👈.  
 
 </details>
 
@@ -71,7 +71,7 @@ Check out one of my Django projects <a href="https://projectshowcase.prathmeshso
     <a href="https://github.com/PrathmeshSoni/Money-Management" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=money-Management&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
     <a href="https://github.com/PrathmeshSoni/Aiml" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=aiml&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/PrathmeshSoni/Chat-Application" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=chat-Application&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/PrathmeshSoni/prathmeshsoni.github.io" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=prathmeshsoni.github.io&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
+    <a href="https://github.com/PrathmeshSoni/InstaCapture" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=InstaCapture&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
   </p>
 
   <a href="https://github.com/PrathmeshSoni?tab=repositories&sort=stargazers" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
