@@ -11,8 +11,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/PrathmeshSoni/" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/70a5fd"/></a>
+  <a href="https://www.linkedin.com/in/PrathmeshSoni/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/SoniPrathmesh" target="_blank">
     <img width="32px" alt="Github" title="Github" src="https://cdn.simpleicons.org/github/70a5fd"></a>
@@ -53,7 +53,7 @@
   
 - 🐍 Python Developer skilled in Web/Data Scraping and Selenium automation.
 - 🌐 Experienced with Django framework for web development.
-- 🎓 I’m currently in the third year of pursuing BTech in Computer Science Engineering with a focus on AI and ML.
+- 🎓 I’m in the final year of pursuing BTech in Computer Science Engineering, focusing on AI and ML.
 - 🔥 Passionate about pushing boundaries and finding innovative solutions.
 - 🤝 Thrives on collaborating with diverse teams for efficient goal achievement.
   
@@ -67,10 +67,10 @@ Check out one of my Django projects <a href="https://project.mrsoni.me/?ref=here
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/PrathmeshSoni/Ecommerce" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Ecommerce&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
-    <a href="https://github.com/PrathmeshSoni/Private-App" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Private-App&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/PrathmeshSoni/Money-Management" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=money-Management&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
     <a href="https://github.com/PrathmeshSoni/Aiml" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=aiml&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/PrathmeshSoni/Chat-Application" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=chat-Application&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="latex-gboard-dictionary"></a>
+    <a href="https://github.com/PrathmeshSoni/Money-Management" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=money-Management&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="custom-icon-badges"></a>
+    <a href="https://github.com/PrathmeshSoni/Private-App" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=Private-App&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/PrathmeshSoni/ProjectShowcase" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=ProjectShowcase&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="latex-gboard-dictionary"></a>
     <a href="https://github.com/PrathmeshSoni/InstaCapture" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prathmeshsoni&repo=InstaCapture&theme=react&bg_color=1F222E&title_color=70a5fd&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
   </p>
 
